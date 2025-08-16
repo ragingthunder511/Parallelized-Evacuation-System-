@@ -143,7 +143,7 @@ Explanation:
 
 ## License & Contact
 MIT License — feel free to reuse and adapt for academic projects.  
-Author: *Your Name* — replace with your name/email in the repository.
+Author: Grishma Uday Karekar ( cs24m020 )  
 
 ---
 
